@@ -1,1 +1,1 @@
-Other repo
+Created a function, calculateTrajectories, to evolve a multi-particle system over time based on instantaneous gravitational force vectors using the leapfrog integrator. Performed analysis on real astronomical data sets, including file read-in with numpy, 2D/3D graphing, and 2D/3D animation.
